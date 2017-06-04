@@ -6,3 +6,4 @@ var customer = (function () {
     };
     return customer;
 }());
+//# sourceMappingURL=Customer.js.map
